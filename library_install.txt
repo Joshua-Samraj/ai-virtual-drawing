@@ -1,0 +1,13 @@
+opencv
+mediapipe
+numpy
+
+
+
+opencv = pip install opencv-python
+
+mediapipe = pip install mediapipe
+
+numpy = pip install numpy
+
+use python 3.8.10 64 bit
